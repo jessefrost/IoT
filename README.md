@@ -11,13 +11,13 @@ This is based on the how to provided by Harm van Vugt you can find here: https:/
 
 Open Buienradar.ino change the following parameters to your own WiFi details.
 
-/images/Schermafbeelding 2020-10-05 om 13.48.30.png
+Schermafbeelding 2020-10-05 om 13.48.30.png
 
 ## Step 02
 
 In the Buienradar.ino where 3 different serial states: Het is droog!, Het regent!, Shit is aan!. I wanted to attached every state to a different led.
 
-/images/jessedevries/Desktop/Schermafbeelding 2020-10-05 om 13.51.52.png
+jessedevries/Desktop/Schermafbeelding 2020-10-05 om 13.51.52.png
 
 ## Step 03 
 
@@ -25,13 +25,13 @@ In the Buienradar.ino where 3 different serial states: Het is droog!, Het regent
 
 When I activated the program I was happy to find out that the signal from the API was legit. But all the lamps where lighting up instead of one.
 
-/images/jessedevries/Desktop/WhatsApp Image 2020-10-05 at 13.54.40.jpeg
+jessedevries/Desktop/WhatsApp Image 2020-10-05 at 13.54.40.jpeg
 
 ### Solution
 
 I found out that within the RGB parameters changes was needed. 
 
-/images/jessedevries/Desktop/Schermafbeelding 2020-10-05 om 13.36.54.png
+jessedevries/Desktop/Schermafbeelding 2020-10-05 om 13.36.54.png
 
 I change it to this.
 
@@ -44,4 +44,4 @@ I change it to this.
 It works! Now I know whenever it rains based on the light.
 
 /images/jessedevries/Desktop/Schermafbeelding 2020-10-05 om 13.40.33.png
-/images//jessedevries/Desktop/WhatsApp Image 2020-10-05 at 13.39.11.jpeg
+/images/WhatsApp Image 2020-10-05 at 13.39.11.jpeg

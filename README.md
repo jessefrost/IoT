@@ -11,7 +11,7 @@ This is based on the how to provided by Harm van Vugt you can find here: https:/
 
 Open Buienradar.ino change the following parameters to your own WiFi details.
 
-Schermafbeelding 2020-10-05 om 13.48.30.png
+/images/Schermafbeelding 2020-10-05 om 13.48.30.png
 
 ## Step 02
 
